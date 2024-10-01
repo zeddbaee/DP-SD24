@@ -14,8 +14,8 @@
 
 <br>
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="width: 45%;">
     <h3 align="left">Contact Person</h3>
     <p align="left">
       <a href="https://wa.me/+6285702723096" target="blank">
@@ -27,7 +27,7 @@
     </p>
   </div>
 
-  <div>
+  <div style="width: 45%; text-align: right;">
     <h3 align="right">Programming Language and IDE</h3>
     <p align="right"> 
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
