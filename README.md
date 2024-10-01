@@ -1,6 +1,6 @@
 <h1 align="center">Praktikum Dasar Pemrograman - S1 Sains Data UNS</h1>
 <p align="center" >
-  <img src="https://github.com/snipe/animated-gifs/blob/master/Approved/FistBumpHero6.gif" alt="snipe" width="300" height="300"/>
+  <img src="https://github.com/snipe/animated-gifs/blob/master/Approved/FistBumpHero6.gif" alt="snipe"/>
 </p>
 <h3 align="center"> Tahun Ajaran 2024/2025 Semester Ganjil </h3>
 <h3 align ="center">  >> <a align = "center" href = "https://github.com/Swordigo15/PraktikumKP2023/blob/main/Daftar%20Materi.md"> <span align="center">MATERI PRAKTIKUM</span></a> << </h3>
