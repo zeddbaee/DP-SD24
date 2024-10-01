@@ -1,5 +1,5 @@
 <h1 align="center">Praktikum Dasar Pemrograman</h1>
-S1 SAINS DATA UNS
+<h3 align="center">S1 SAINS DATA UNS</h3>
 <p align="center" >
   <img src="https://github.com/snipe/animated-gifs/blob/master/Approved/FistBumpHero6.gif" alt="snipe"/>
 </p>
