@@ -1,5 +1,4 @@
 <h1 align="center">Praktikum Dasar Pemrograman</h1>
-<br>
 <h1 align="center">S1 Sains Data UNS</h1>
 
 <h3 align="center"> Tahun Ajaran 2024/2025 Semester Ganjil </h3>
