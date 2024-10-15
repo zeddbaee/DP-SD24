@@ -13,7 +13,6 @@
 - Alfansyah Putra Raja Dinata (SD 2024)
 - Muhammad Riza Zaidaan (SD 2024)
 
-<br>
 <h3 align="left">Contact Person</h3>
 <p align="left">
   <a href="https://wa.me/+6285702723096" target="blank"><img align="center"
@@ -25,7 +24,6 @@
          alt="azzar" height="30"/></a>
 </p>
 
-<br>
 <h3 align="left">Programming Language and IDE</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
