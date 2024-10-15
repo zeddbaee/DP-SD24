@@ -24,7 +24,7 @@
   </a>
   <a href="https://www.jetbrains.com/intellij/" target="_blank" rel="noreferrer">
     <img src="https://resources.jetbrains.com/storage/products/intellij/img/meta/intellij_logo_300x300.png"
-      alt="clion" width="40" height="40"/>
+      alt="intellij" width="40" height="40"/>
   </a>
 </p>
 
