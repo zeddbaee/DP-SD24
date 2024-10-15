@@ -4,9 +4,9 @@
 <br>
 <p align="right"> <h3>Anggota Kelompok Project:</h3> 
   </p>
-1. Muhammad Riza Zaidaan - L0223031
-2. Naufal Afif Alfadhil - L0223034
-3. Siroj Munir - L0223050
+- Muhammad Riza Zaidaan | L0223031
+- Naufal Afif Alfadhil | L0223034
+- Siroj Munir | L0223050
 
 <h3 align="left">Programming Language and IDE</h3>
 <p align="left"> 
