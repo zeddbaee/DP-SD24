@@ -10,8 +10,10 @@
 <p align="right"> <h3>Tim Asisten Dosen Kelas A Sains Data 2024:</h3> 
   </p>
 
-- Alfansyah Putra Raja Dinata (SD 2024)
-- Muhammad Riza Zaidaan (SD 2024)
+<ul>
+  <li>Alfansyah Putra Raja Dinata [SD 2023]</li>
+  <li>Muhammad Riza Zaidaan [SD 2023]</li>
+</ul>
 
 <h3 align="left">Contact Person</h3>
 <p align="left">
