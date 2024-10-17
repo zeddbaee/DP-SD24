@@ -1,5 +1,3 @@
-[<< Pass By Reference](2-PassByRef.md)
-
 # 6.3 - Dynamic Memory Allocation
 
 Apa itu Dynamic Memory Allocation? **Dynamic Memory Allocation (DMA)** adalah suatu teknik di mana kita mengalokasikan sebuah memori untuk diisi dengan suatu data guna dipertahankan sampai program selesai berjalan. Karena memori berkaitan erat dengan pointer (yang mana pointer merupakan penunjuk ke suatu alamat memori), maka konsep ini tidak dapat dipisahkan dari pointer.
@@ -154,6 +152,3 @@ Harga barang ke-4 : $3100
 Harga barang ke-5 : $4750
 */
 ```
-
-
-[Silabus >>](../silabus.md)
