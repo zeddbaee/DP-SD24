@@ -1,5 +1,3 @@
-[<< Materi sebelumnya (Multidimensional Array) <<](2-ArrayMultidimensi.md)
-
 # 5.3 Array Sebagai Parameter Fungsi
 
 Layaknya tipe data lainnya, kalian pun dapat mengirimkan/passing sebuah array ke sebuah fungsi. Terdapat dua tipe yaitu pass array secara keseluruhan dan pass elemen array.
@@ -90,10 +88,3 @@ Kalian akan memperdalam **const** di pertemuan mendatang.
 ```c
 int foo(const int* arr, int panjang_arr)
 ```
-
-[Menuju Silabus >>](../silabus.md)
-
-
-   
- 
-        
