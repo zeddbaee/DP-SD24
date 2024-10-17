@@ -1,5 +1,3 @@
-[<< Silabus](../silabus.md)
-
 # 6.1 - Pengenalan Pointer
 
 Apa itu pointer? **Pointer** merupakan sebuah **modifikasi** pada suatu tipe data tertentu sehingga nilainya berupa **alamat memori** yang merujuk pada suatu **variabel/data**.
@@ -210,5 +208,3 @@ printf("Health sekarang: %d\n", *health_ptr);
 /* Membaca (read) lagi pointer `health_ptr` */
 printf("Health sekarang: %d\n", *health_ptr);
 ```
-
-[Pass By Reference >>](2-PassByRef.md)
