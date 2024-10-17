@@ -1,5 +1,3 @@
-[<< Pengenalan Pointer](1-Pengenalan.md)
-
 # 6.2 - Pass By Reference
 
 Sekarang kita tinjau kembali masalah yang ada pada topik pengantar sebelumnya
@@ -67,5 +65,3 @@ Health awal: 100
 Health akhir: 80
 */
 ```
-
-[Dynamic Memory Allocation >>](3-DMA.md)
