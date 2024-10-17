@@ -1,5 +1,3 @@
-[<< Materi Sebelumnya (Pengenalan Array)](1-PengenalanArray.md)
-
 # 5.2 - Array Multidimensi
 
 **Array multidimensi** (*multidimensional array*) adalah array yang memiliki lebih dari satu baris. Perhatikan potongan kode di bawah ini.
@@ -152,5 +150,3 @@ Matrix anda:
 ```
   
 </details>
-  
-[Materi Selanjutnya (Array Sebagai Parameter Fungsi) >>](3-ArraySebagaiParameterFungsi.md)
