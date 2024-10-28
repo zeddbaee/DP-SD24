@@ -1,5 +1,3 @@
-[<< Silabus](../silabus.md)
-
 # 10.1 - Array dan Linked List
 
 Koleksi (kumpulan obyek atau elemen) dalam program dapat disimpan menggunakan struktur data **array** (yang biasa kita pakai sebelumnya) dan **linked list**. Kita akan membahas tentang perbandingan array dan linked list pada materi ini.
@@ -388,5 +386,3 @@ Menghapus elemen pertama...
 Array memiliki kelebihan yaitu dapat mengakses suatu elemen posisi tertentu dengan cepat dan mudah hanya berdasarkan indeks angka. Namun kekurangannya adalah proses penambahan/penghapusan elemen sulit dilakukan secara efektif. Cocok digunakan apabila ukuran koleksi tidak berubah-ubah dan dapat diidentifikasi dengan suatu indeks angka (dalam kata lain, pengaksesan suatu elemen berdasarkan indeks juga dipertimbangkan)
 
 Kemudian linked list memiliki kelebihan yaitu proses penambahan/penghapusan elemen mudah dilakukan secara efektif. Namun kekurangannya adalah untuk mengakses suatu elemen/node tidak bisa langsung berdasarkan indeks namun harus melalui proses iterasi terlebih dahulu untuk menemukan elemen/node yang cocok. Cocok digunakan apabila ukuran koleksi berubah-ubah dan tidak perlu mengidentifikasi elemen berdasarkan indeks (dalam kata lain, hanya operasi iterasi seluruh elemen saja yang dipertimbangkan).
-
-[Stack dan Queue >>](2-StackQueue.md)
