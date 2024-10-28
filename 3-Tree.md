@@ -1,5 +1,3 @@
-[<< Stack dan Queue](2-StackQueue.md)
-
 # Tree
 
 ## Pengertian Tree
@@ -371,5 +369,3 @@ Menghapus semua mahasiswa ...
 
 */
 ```
-
-[Silabus >>](../silabus.md)
