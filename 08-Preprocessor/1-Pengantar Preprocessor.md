@@ -1,6 +1,4 @@
-[<< Silabus](../DaftarMateri.md)
-
-# 11.1 - Pengantar Preprocessor
+# Pengantar Preprocessor
 
 ## Apa Itu Preprocessor?
 
@@ -56,5 +54,3 @@ for (i = 0; i < 5; i++) {
 }
 printf("Hasil: %d\n", Y);
 ```
-
-[Symbolic Constant dan Macro >>](2-SymbolicConstantDanMacro.md)
