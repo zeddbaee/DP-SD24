@@ -1,4 +1,4 @@
-# 10.2 - Stack dan Queue
+# Stack dan Queue
 
 **Stack** dan **queue** merupakan suatu struktur data yang memiliki operasi-operasi tertentu sesuai dengan definisinya masing-masing. Karena sering melibatkan penambahan dan penghapusan elemen, maka struktur data ini cocok diterapkan menggunakan **linked list** dengan demikian dapat dikatakan sebagai struktur data turunan dari linked list.
 
