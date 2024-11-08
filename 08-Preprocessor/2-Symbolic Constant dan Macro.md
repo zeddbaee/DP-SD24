@@ -1,6 +1,4 @@
-[<< Materi Sebelumnya (Pengantar Preprocessor)](1-Pengantar.md)
-
-# 11.2 - Symbolic Constant dan Macro 
+# Symbolic Constant dan Macro 
 Symbolic Constant dan Macro merupakan salah dua penggunaan dari preprocessor **#define**. Pada dasarnya, keduanya akan menggantikan/mensubstitusi _identifier_ dengan sebuah pengganti atau _replacement_
 
 ## Symbolic Constant
@@ -164,4 +162,3 @@ contoh:
                   printf("Argumen macro ini ialah " #x "\n"); \
                   printf("Keluar dari macro...\n");
 ```
-[Conditional Compilation >>](3-ConditionalCompilation.md)
