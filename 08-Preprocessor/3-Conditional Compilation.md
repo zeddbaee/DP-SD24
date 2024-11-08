@@ -1,6 +1,4 @@
-[<< Materi Sebelumnya (Symbolic Constant dan Macro) <<](2-Symbolic-Constant-dan-Macro.md)
-
-# 11.3 - Conditional Compilation
+# Conditional Compilation
 
 ## Definisi
 
